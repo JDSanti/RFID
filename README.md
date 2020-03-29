@@ -7,3 +7,8 @@ CANAKIT GPIO Breakout Board
 Parallax RFID Reader #28140
 2 Transponder Tags
 Logic Level Converter for 5V-3.3V
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
